@@ -4,17 +4,21 @@ import 'primereact/resources/themes/saga-blue/theme.css';
 import 'primereact/resources/primereact.min.css';
 import 'primeicons/primeicons.css';
 import 'primeflex/primeflex.css';
-import Home from './component/common/home';
+import Home from './component/pages/home';
 import Headers from './component/common/header';
 import Footer from './component/common/footer';
 import About from './component/pages/about';
+import Projects from './component/pages/projects';
+import Contact from './component/pages/contact';
 function App() {
   return (
     
     <div className="App">
-    <Headers/>
+    {/* <Headers/> */}
     <Home/>
     <About/>
+    <Projects/>
+    <Contact/>
     <Footer/>
       {/* <header className="App-header">
       <ParticleComponent></ParticleComponent>

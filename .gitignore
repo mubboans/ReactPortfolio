@@ -7,9 +7,9 @@
 
 # testing
 /coverage
-
+build
 # production
-/build
+/build.zip
 
 # misc
 .DS_Store
