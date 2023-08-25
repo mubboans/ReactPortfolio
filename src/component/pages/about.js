@@ -29,8 +29,8 @@ const about = () => {
                         <div className="flex justify-content-between">
                             <div className="flex flex-column gap-1">
                                 <p className="mt-0 mb-0 font-semibold line-height-3 text-base text-white">Mubashir Ansari</p>
-                                <span className="text-50 font-light line-height-3 text-sm text-white-alpha-80">CEO &amp;
-                                    Co-Founder of Hyper</span>
+                                <span className="text-50 font-light line-height-3 text-sm text-white-alpha-80">Self Motivated &amp;
+                                    Independent Developer</span>
                             </div>
                             <div className="flex align-items-center gap-2"><button
                                     className="p-button p-component p-button-rounded bg-white-alpha-10 text-white p-button-icon-only"
